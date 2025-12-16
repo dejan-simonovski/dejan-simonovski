@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dejan-simonovski" alt="dejan-simonovski" /></a> </p> -->
 
-- 💬 Currently an intern at **Axapta Masters** and student at **FCSE/FINKI Skopje**
+- 💬 Currently an intern at **G+D Netcetera** and student at **FCSE/FINKI Skopje**
 
 - 📫 How to reach me **dejan.simonovski2002@gmail.com**
 
