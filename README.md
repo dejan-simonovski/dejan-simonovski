@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dejan-simonovski" alt="dejan-simonovski" /></a> </p> -->
 
-- 💬 Graduated **Software Engineer** at **FINKI/FCSE** Skopje
+- 💬 Graduated **Software Engineer** at **FINKI/FCSE** Skopje and Full-stack Software Engineer at [Symphony.is](https://symphony.is/).
 
 - 📫 How to reach me: **dejan.simonovski2002@gmail.com**
 
